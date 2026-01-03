@@ -1,0 +1,1 @@
+# Generated-Qr-Code-using-Python-
